@@ -1,2 +1,2 @@
 # Relearning Git + learning github
-print('Hello Werld')
+print('Hello World')
